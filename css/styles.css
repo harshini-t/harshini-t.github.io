@@ -478,6 +478,12 @@ mark,
   height: auto;
 }
 
+.img-middle {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
