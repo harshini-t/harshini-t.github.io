@@ -2173,6 +2173,13 @@ textarea.form-control {
   margin-bottom: 0;
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 .form-check-inline {
   display: inline-flex;
   align-items: center;
