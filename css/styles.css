@@ -84,6 +84,16 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 0.5rem;
 }
 
+h5 {
+  display: block;
+  font-size: 1.17em;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+}
+
 p {
   margin-top: 0;
   margin-bottom: 1rem;
@@ -10038,6 +10048,8 @@ p {
   margin-top: 0;
   margin-bottom: 1rem;
 }
+
+
 .page-section h3.section-subheading {
   font-size: 2rem;
   font-weight: 400;
