@@ -6306,10 +6306,11 @@ button.bg-dark:focus {
 }
 
 .rounded-circle {
-  width: 200px;
-  height: 200px;
+  width: 300px;
+  height: 300px;
   border-radius: 50% !important;
-  margin-bottom: 1rem;
+  margin-bottom: -2rem;
+  margin-top: -5rem;
 }
 
 .rounded-pill {
@@ -10072,6 +10073,8 @@ img::-moz-selection {
   font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 1.125rem;
   font-weight: 700;
+  margin-bottom: -8rem;
+  margin-top: -3rem;
 }
 
 .btn-social {
@@ -10082,6 +10085,8 @@ img::-moz-selection {
   justify-content: center;
   padding: 0;
   border-radius: 100%;
+  margin-bottom: 1rem;
+
 }
 
 #mainNav {
