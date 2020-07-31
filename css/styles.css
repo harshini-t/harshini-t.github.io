@@ -201,6 +201,27 @@ img {
   border-style: none;
 }
 
+.pic-left {
+  right: auto;
+  left: 0;
+  height: 200px;
+  width: 400px;
+}
+
+.pic-middle {
+  right: 0;
+  left: auto;
+  height: 200px;
+  width: 200px;
+}
+
+.pic-right {
+  right: auto;
+  left: auto;
+  height: 200px;
+  width: 400px;
+}
+
 svg {
   overflow: hidden;
   vertical-align: middle;
@@ -3041,26 +3062,7 @@ input[type=button].btn-block {
   border-radius: 0.25rem;
 }
 
-.pic-left {
-  right: auto;
-  left: 0;
-  height: 200px;
-  width: 400px;
-}
 
-.pic-middle {
-  right: 0;
-  left: auto;
-  height: 200px;
-  width: 200px;
-}
-
-.pic-right {
-  right: auto;
-  left: auto;
-  height: 200px;
-  width: 400px;
-}
 
 .dropdown-menu-left {
   right: auto;
