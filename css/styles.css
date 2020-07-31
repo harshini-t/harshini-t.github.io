@@ -382,6 +382,7 @@ h1, .h1 {
 }
 
 h2, .h2 {
+  margin-top: 1rem;
   font-size: 2rem;
 }
 
@@ -10051,7 +10052,7 @@ p {
 
 
 .page-section h3.section-subheading {
-  font-size: 2rem;
+  font-size: 2.5rem;
   font-weight: 400;
   color:darkred;
   font-style: italic;
